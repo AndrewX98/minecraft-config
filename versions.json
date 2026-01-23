@@ -1,0 +1,19 @@
+{
+  "updated_at": "2026-01-23",
+  "releases": [
+    {
+      "version": "1.26.0.29",
+      "type": "Beta",
+      "file_name": "minecraft-1.26.0.29-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-0-29/minecraft-1.26.0.29-x86_64.apk",
+      "sha256": ""
+    },
+    {
+      "version": "1.21.132.1",
+      "type": "Release",
+      "file_name": "minecraft-1.21.132.1-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-132-1/minecraft-1.21.132.1-x86_64.apk",
+      "sha256": ""
+    }
+  ]
+}
