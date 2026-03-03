@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-01-23",
+  "updated_at": "2026-03-03",
   "releases": [
     {
+      "version": "1.26.3.1",
+      "type": "Release",
+      "file_name": "minecraft-1.26.3.1-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-3-1/minecraft-1.26.3.1-x86_64.apk",
+      "sha256": "",
+      "size": 937398464
+    },
+    {
+      "version": "1.26.10.25",
+      "type": "Release",
+      "file_name": "minecraft-1.26.10.25-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-10-25/minecraft-1.26.10.25-x86_64.apk",
+      "sha256": "",
+      "size": 946578363
+    },
+    {
+      "version": "1.26.10.24",
+      "type": "Release",
+      "file_name": "minecraft-1.26.10.24-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-10-24/minecraft-1.26.10.24-x86_64.apk",
+      "sha256": "",
+      "size": 933980704
+    },
+    {
+      "version": "1.26.10.23",
+      "type": "Release",
+      "file_name": "minecraft-1.26.10.23-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-10-23/minecraft-1.26.10.23-x86_64.apk",
+      "sha256": "",
+      "size": 929501781
+    },
+    {
+      "version": "1.26.10.21",
+      "type": "Release",
+      "file_name": "minecraft-1.26.10.21-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-10-21/minecraft-1.26.10.21-x86_64.apk",
+      "sha256": "",
+      "size": 933138865
+    },
+    {
+      "version": "1.26.10.20",
+      "type": "Release",
+      "file_name": "minecraft-1.26.10.20-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-10-20/minecraft-1.26.10.20-x86_64.apk",
+      "sha256": "",
+      "size": 930730930
+    },
+    {
       "version": "1.26.0.29",
-      "type": "Beta",
+      "type": "Release",
       "file_name": "minecraft-1.26.0.29-x86_64.apk",
       "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-0-29/minecraft-1.26.0.29-x86_64.apk",
       "sha256": "",
       "size": 942511030
+    },
+    {
+      "version": "1.26.0.28",
+      "type": "Release",
+      "file_name": "minecraft-1.26.0.28-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-0-28/minecraft-1.26.0.28-x86_64.apk",
+      "sha256": "",
+      "size": 942437302
     },
     {
       "version": "1.21.132.1",
@@ -15,15 +71,2015 @@
       "file_name": "minecraft-1.21.132.1-x86_64.apk",
       "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-132-1/minecraft-1.21.132.1-x86_64.apk",
       "sha256": "",
-       "size": 929990580
+      "size": 929990580
     },
     {
-      "version": "1.26.2.1",
+      "version": "1.26.0.27",
       "type": "Release",
-      "file_name": "minecraft-1.26.2.1-x86_64.apk",
-      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-2-1/minecraft-1.26.2.1-x86_64.apk",
+      "file_name": "minecraft-1.26.0.27-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-0-27/minecraft-1.26.0.27-x86_64.apk",
       "sha256": "",
-      "size": 935231680
+      "size": 940966344
+    },
+    {
+      "version": "1.21.131.1",
+      "type": "Release",
+      "file_name": "minecraft-1.21.131.1-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-131-1/minecraft-1.21.131.1-x86_64.apk",
+      "sha256": "",
+      "size": 930133940
+    },
+    {
+      "version": "1.26.0.25",
+      "type": "Release",
+      "file_name": "minecraft-1.26.0.25-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-0-25/minecraft-1.26.0.25-x86_64.apk",
+      "sha256": "",
+      "size": 944962185
+    },
+    {
+      "version": "1.21.130.3",
+      "type": "Release",
+      "file_name": "minecraft-1.21.130.3-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-130-3/minecraft-1.21.130.3-x86_64.apk",
+      "sha256": "",
+      "size": 929925044
+    },
+    {
+      "version": "1.26.0.23",
+      "type": "Release",
+      "file_name": "minecraft-1.26.0.23-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-0-23/minecraft-1.26.0.23-x86_64.apk",
+      "sha256": "",
+      "size": 942469108
+    },
+    {
+      "version": "1.21.130.28",
+      "type": "Release",
+      "file_name": "minecraft-1.21.130.28-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-130-28/minecraft-1.21.130.28-x86_64.apk",
+      "sha256": "",
+      "size": 936753895
+    },
+    {
+      "version": "1.21.130.27",
+      "type": "Release",
+      "file_name": "minecraft-1.21.130.27-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-130-27/minecraft-1.21.130.27-x86_64.apk",
+      "sha256": "",
+      "size": 936471271
+    },
+    {
+      "version": "1.21.130.26",
+      "type": "Release",
+      "file_name": "minecraft-1.21.130.26-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-130-26/minecraft-1.21.130.26-x86_64.apk",
+      "sha256": "",
+      "size": 936204268
+    },
+    {
+      "version": "1.21.130.24",
+      "type": "Release",
+      "file_name": "minecraft-1.21.130.24-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-130-24/minecraft-1.21.130.24-x86_64.apk",
+      "sha256": "",
+      "size": 923554710
+    },
+    {
+      "version": "1.21.130.22",
+      "type": "Release",
+      "file_name": "minecraft-1.21.130.22-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-130-22/minecraft-1.21.130.22-x86_64.apk",
+      "sha256": "",
+      "size": 919729908
+    },
+    {
+      "version": "1.21.130.20",
+      "type": "Release",
+      "file_name": "minecraft-1.21.130.20-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-130-20/minecraft-1.21.130.20-x86_64.apk",
+      "sha256": "",
+      "size": 919613970
+    },
+    {
+      "version": "1.21.110.26",
+      "type": "Release",
+      "file_name": "minecraft-1-21-110-26-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-110-26/minecraft-1-21-110-26-x86-xbox.apk",
+      "sha256": "",
+      "size": 620002820
+    },
+    {
+      "version": "1.21.110.25",
+      "type": "Release",
+      "file_name": "minecraft-1-21-110-25-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-110-25/minecraft-1-21-110-25-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 622300821
+    },
+    {
+      "version": "1.21.101.1",
+      "type": "Release",
+      "file_name": "minecraft-1-21-101-1-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-101-1/minecraft-1-21-101-1-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 607538453
+    },
+    {
+      "version": "1.21.110.23",
+      "type": "Release",
+      "file_name": "minecraft-1-21-110-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-110-23/minecraft-1-21-110-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 617040450
+    },
+    {
+      "version": "1.21.110.22",
+      "type": "Release",
+      "file_name": "minecraft-1-21-110-22-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-110-22/minecraft-1-21-110-22-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 614942194
+    },
+    {
+      "version": "1.21.110.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-110-20-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-110-20/minecraft-1-21-110-20-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 613582577
+    },
+    {
+      "version": "1.21.100.24",
+      "type": "Release",
+      "file_name": "minecraft-1-21-100-24-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-100-24/minecraft-1-21-100-24-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 610978752
+    },
+    {
+      "version": "1.21.100.23",
+      "type": "Release",
+      "file_name": "minecraft-1-21-100-23-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-100-23/minecraft-1-21-100-23-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 610876352
+    },
+    {
+      "version": "1.21.100.22",
+      "type": "Release",
+      "file_name": "minecraft-1-21-100-22-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-100-22/minecraft-1-21-100-22-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 603937932
+    },
+    {
+      "version": "1.21.100.21",
+      "type": "Release",
+      "file_name": "minecraft-1-21-100-21-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-100-21/minecraft-1-21-100-21-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 602516884
+    },
+    {
+      "version": "1.21.90.3",
+      "type": "Release",
+      "file_name": "minecraft-1-21-90-3-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-90-3/minecraft-1-21-90-3-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 596590540
+    },
+    {
+      "version": "1.21.100.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-100-20-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-100-20/minecraft-1-21-100-20-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 601950565
+    },
+    {
+      "version": "1.21.90.28",
+      "type": "Release",
+      "file_name": "minecraft-1-21-90-28-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-90-28/minecraft-1-21-90-28-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 600858125
+    },
+    {
+      "version": "1.21.90.27",
+      "type": "Release",
+      "file_name": "minecraft-1-21-90-27-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-90-27/minecraft-1-21-90-27-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 597265933
+    },
+    {
+      "version": "1.21.90.26",
+      "type": "Release",
+      "file_name": "minecraft-1-21-90-26-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-90-26/minecraft-1-21-90-26-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 597237230
+    },
+    {
+      "version": "1.21.90.25",
+      "type": "Release",
+      "file_name": "minecraft-1-21-90-25-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-90-25/minecraft-1-21-90-25-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 586919180
+    },
+    {
+      "version": "1.21.90.23",
+      "type": "Release",
+      "file_name": "minecraft-1-21-90-23-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-90-23/minecraft-1-21-90-23-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 567671309
+    },
+    {
+      "version": "1.21.90.21",
+      "type": "Release",
+      "file_name": "minecraft-1-21-90-21-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-90-21/minecraft-1-21-90-21-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 567906712
+    },
+    {
+      "version": "1.21.90.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-90-20-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-90-20/minecraft-1-21-90-20-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 567660835
+    },
+    {
+      "version": "1.21.80.28",
+      "type": "Release",
+      "file_name": "minecraft-1-21-80-28-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-80-28/minecraft-1-21-80-28-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 566285735
+    },
+    {
+      "version": "1.21.80.27",
+      "type": "Release",
+      "file_name": "minecraft-1-21-80-27-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-80-27/minecraft-1-21-80-27-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 565986547
+    },
+    {
+      "version": "1.21.80.25",
+      "type": "Release",
+      "file_name": "minecraft-1-21-80-25-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-80-25/minecraft-1-21-80-25-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 565761487
+    },
+    {
+      "version": "1.21.80.22",
+      "type": "Release",
+      "file_name": "minecraft-1-21-80-22-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-80-22/minecraft-1-21-80-22-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 549459986
+    },
+    {
+      "version": "1.21.80.21",
+      "type": "Release",
+      "file_name": "minecraft-1-21-80-21-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-80-21/minecraft-1-21-80-21-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 545003539
+    },
+    {
+      "version": "1.21.80.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-80-20-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-80-20/minecraft-1-21-80-20-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 548722730
+    },
+    {
+      "version": "1.21.70.26",
+      "type": "Release",
+      "file_name": "minecraft-1-21-70-26-x86-64-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-70-26/minecraft-1-21-70-26-x86-64-xbox.apk",
+      "sha256": "",
+      "size": 543456539
+    },
+    {
+      "version": "1.21.70.24",
+      "type": "Release",
+      "file_name": "minecraft-1-21-70-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-70-24/minecraft-1-21-70-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 543272729
+    },
+    {
+      "version": "1.21.70.23",
+      "type": "Release",
+      "file_name": "minecraft-1-21-70-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-70-23/minecraft-1-21-70-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 536462395
+    },
+    {
+      "version": "1.21.70.22",
+      "type": "Release",
+      "file_name": "minecraft-1-21-70-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-70-22/minecraft-1-21-70-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 550629306
+    },
+    {
+      "version": "1.21.70.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-70-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-70-20/minecraft-1-21-70-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 548449130
+    },
+    {
+      "version": "1.21.60.28",
+      "type": "Release",
+      "file_name": "minecraft-1-21-60-28-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-60-28/minecraft-1-21-60-28-x86-xbox.apk",
+      "sha256": "",
+      "size": 539755253
+    },
+    {
+      "version": "1.21.60.27",
+      "type": "Release",
+      "file_name": "minecraft-1-21-60-27-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-60-27/minecraft-1-21-60-27-x86-xbox.apk",
+      "sha256": "",
+      "size": 539742967
+    },
+    {
+      "version": "1.21.60.25",
+      "type": "Release",
+      "file_name": "minecraft-1-21-60-25-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-60-25/minecraft-1-21-60-25-x86.apk",
+      "sha256": "",
+      "size": 539529185
+    },
+    {
+      "version": "1.21.60.24",
+      "type": "Release",
+      "file_name": "minecraft-1-21-60-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-60-24/minecraft-1-21-60-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 539368151
+    },
+    {
+      "version": "1.21.60.23",
+      "type": "Release",
+      "file_name": "minecraft-1-21-60-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-60-23/minecraft-1-21-60-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 539100183
+    },
+    {
+      "version": "1.21.50.29",
+      "type": "Release",
+      "file_name": "minecraft-1-21-50-29-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-50-29/minecraft-1-21-50-29-x86.apk",
+      "sha256": "",
+      "size": 533995355
+    },
+    {
+      "version": "1.21.50.28",
+      "type": "Release",
+      "file_name": "minecraft-1-21-50-28-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-50-28/minecraft-1-21-50-28-x86.apk",
+      "sha256": "",
+      "size": 533999466
+    },
+    {
+      "version": "1.21.50.26",
+      "type": "Release",
+      "file_name": "minecraft-1-21-50-26-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-50-26/minecraft-1-21-50-26-x86.apk",
+      "sha256": "",
+      "size": 534045101
+    },
+    {
+      "version": "1.21.50.25",
+      "type": "Release",
+      "file_name": "minecraft-1-21-50-25-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-50-25/minecraft-1-21-50-25-x86.apk",
+      "sha256": "",
+      "size": 533257380
+    },
+    {
+      "version": "1.21.50.24",
+      "type": "Release",
+      "file_name": "minecraft-1-21-50-24-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-50-24/minecraft-1-21-50-24-x86.apk",
+      "sha256": "",
+      "size": 532521329
+    },
+    {
+      "version": "1.21.50.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-50-20-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-50-20/minecraft-1-21-50-20-x86.apk",
+      "sha256": "",
+      "size": 531947058
+    },
+    {
+      "version": "1.21.40.25",
+      "type": "Release",
+      "file_name": "minecraft-1-21-40-25-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-40-25/minecraft-1-21-40-25-x86.apk",
+      "sha256": "",
+      "size": 528338728
+    },
+    {
+      "version": "1.21.40.23",
+      "type": "Release",
+      "file_name": "minecraft-1-21-40-23-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-40-23/minecraft-1-21-40-23-x86.apk",
+      "sha256": "",
+      "size": 720391244
+    },
+    {
+      "version": "1.21.40.22",
+      "type": "Release",
+      "file_name": "minecraft-1-21-40-22-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-40-22/minecraft-1-21-40-22-x86.apk",
+      "sha256": "",
+      "size": 529394981
+    },
+    {
+      "version": "1.21.40.21",
+      "type": "Release",
+      "file_name": "minecraft-1-21-40-21-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-40-21/minecraft-1-21-40-21-x86.apk",
+      "sha256": "",
+      "size": 529006460
+    },
+    {
+      "version": "1.21.40.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-40-20-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-40-20/minecraft-1-21-40-20-x86.apk",
+      "sha256": "",
+      "size": 526668200
+    },
+    {
+      "version": "1.21.30.25",
+      "type": "Release",
+      "file_name": "minecraft-1-21-30-25-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-30-25/minecraft-1-21-30-25-x86.apk",
+      "sha256": "",
+      "size": 523429725
+    },
+    {
+      "version": "1.21.30.24",
+      "type": "Release",
+      "file_name": "minecraft-1-21-30-24-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-30-24/minecraft-1-21-30-24-x86.apk",
+      "sha256": "",
+      "size": 523466752
+    },
+    {
+      "version": "1.21.30.23",
+      "type": "Release",
+      "file_name": "minecraft-1-21-30-23-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-30-23/minecraft-1-21-30-23-x86.apk",
+      "sha256": "",
+      "size": 524019370
+    },
+    {
+      "version": "1.21.30.22",
+      "type": "Release",
+      "file_name": "minecraft-1-21-30-22-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-30-22/minecraft-1-21-30-22-x86.apk",
+      "sha256": "",
+      "size": 523607694
+    },
+    {
+      "version": "1.21.30.21",
+      "type": "Release",
+      "file_name": "minecraft-1-21-30-21-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-30-21/minecraft-1-21-30-21-x86.apk",
+      "sha256": "",
+      "size": 523365490
+    },
+    {
+      "version": "1.21.20.24",
+      "type": "Release",
+      "file_name": "minecraft-1-21-20-24-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-20-24/minecraft-1-21-20-24-x86.apk",
+      "sha256": "",
+      "size": 559520257
+    },
+    {
+      "version": "1.21.20.23",
+      "type": "Release",
+      "file_name": "minecraft-1-21-20-23-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-20-23/minecraft-1-21-20-23-x86.apk",
+      "sha256": "",
+      "size": 559284095
+    },
+    {
+      "version": "1.21.20.22",
+      "type": "Release",
+      "file_name": "minecraft-1-21-20-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-20-22/minecraft-1-21-20-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 559856532
+    },
+    {
+      "version": "1.21.20.21",
+      "type": "Release",
+      "file_name": "minecraft-1-21-20-21-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-20-21/minecraft-1-21-20-21-x86.apk",
+      "sha256": "",
+      "size": 896470585
+    },
+    {
+      "version": "1.21.10.21",
+      "type": "Release",
+      "file_name": "minecraft-1-21-10-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-10-21/minecraft-1-21-10-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 897272919
+    },
+    {
+      "version": "1.21.10.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-10-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-10-20/minecraft-1-21-10-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 896636098
+    },
+    {
+      "version": "1.21.0.26",
+      "type": "Release",
+      "file_name": "minecraft-1-21-0-26-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-0-26/minecraft-1-21-0-26-x86-xbox.apk",
+      "sha256": "",
+      "size": 898017521
+    },
+    {
+      "version": "1.21.0.25",
+      "type": "Release",
+      "file_name": "minecraft-1-21-0-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-0-25/minecraft-1-21-0-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 898033886
+    },
+    {
+      "version": "1.21.0.24",
+      "type": "Release",
+      "file_name": "minecraft-1-21-0-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-0-24/minecraft-1-21-0-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 897964359
+    },
+    {
+      "version": "1.20.81.01",
+      "type": "Release",
+      "file_name": "minecraft-1-20-81-01-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-81-01/minecraft-1-20-81-01-x86-xbox.apk",
+      "sha256": "",
+      "size": 706274874
+    },
+    {
+      "version": "1.21.0.22",
+      "type": "Release",
+      "file_name": "minecraft-1-21-0-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-0-22/minecraft-1-21-0-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 715408622
+    },
+    {
+      "version": "1.21.0.21",
+      "type": "Release",
+      "file_name": "minecraft-1-21-0-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-0-21/minecraft-1-21-0-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 716564481
+    },
+    {
+      "version": "1.21.0.20",
+      "type": "Release",
+      "file_name": "minecraft-1-21-0-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-21-0-20/minecraft-1-21-0-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 716024037
+    },
+    {
+      "version": "1.20.80.24",
+      "type": "Release",
+      "file_name": "minecraft-1-20-80-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-80-24/minecraft-1-20-80-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 710047033
+    },
+    {
+      "version": "1.20.72.01",
+      "type": "Release",
+      "file_name": "minecraft-1-20-72-01-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-72-01/minecraft-1-20-72-01-x86-xbox.apk",
+      "sha256": "",
+      "size": 883203953
+    },
+    {
+      "version": "1.20.80.22",
+      "type": "Release",
+      "file_name": "minecraft-1-20-80-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-80-22/minecraft-1-20-80-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 719831996
+    },
+    {
+      "version": "1.20.71.01",
+      "type": "Release",
+      "file_name": "minecraft-1-20-71-01-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-71-01/minecraft-1-20-71-01-x86-xbox.apk",
+      "sha256": "",
+      "size": 884554408
+    },
+    {
+      "version": "1.20.70.25",
+      "type": "Release",
+      "file_name": "minecraft-1-20-70-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-70-25/minecraft-1-20-70-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 714042700
+    },
+    {
+      "version": "1.20.70.24",
+      "type": "Release",
+      "file_name": "minecraft-1-20-70-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-70-24/minecraft-1-20-70-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 713985356
+    },
+    {
+      "version": "1.20.70.22",
+      "type": "Release",
+      "file_name": "minecraft-1-20-70-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-70-22/minecraft-1-20-70-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 712308378
+    },
+    {
+      "version": "1.20.70.21",
+      "type": "Release",
+      "file_name": "minecraft-1-20-70-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-70-21/minecraft-1-20-70-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 712037967
+    },
+    {
+      "version": "1.20.70.20",
+      "type": "Release",
+      "file_name": "minecraft-1-20-70-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-70-20/minecraft-1-20-70-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 709223395
+    },
+    {
+      "version": "1.20.60.26",
+      "type": "Release",
+      "file_name": "minecraft-1-20-60-26-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-60-26/minecraft-1-20-60-26-x86-xbox.apk",
+      "sha256": "",
+      "size": 727886291
+    },
+    {
+      "version": "1.20.60.25",
+      "type": "Release",
+      "file_name": "minecraft-1-20-60-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-60-25/minecraft-1-20-60-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 727833045
+    },
+    {
+      "version": "1.20.60.24",
+      "type": "Release",
+      "file_name": "minecraft-1-20-60-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-60-24/minecraft-1-20-60-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 725833145
+    },
+    {
+      "version": "1.20.60.23",
+      "type": "Release",
+      "file_name": "minecraft-1-20-60-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-60-23/minecraft-1-20-60-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 696083274
+    },
+    {
+      "version": "1.20.60.22",
+      "type": "Release",
+      "file_name": "minecraft-1-20-60-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-60-22/minecraft-1-20-60-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 691676338
+    },
+    {
+      "version": "1.20.60.21",
+      "type": "Release",
+      "file_name": "minecraft-1-20-60-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-60-21/minecraft-1-20-60-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 687816745
+    },
+    {
+      "version": "1.20.60.20",
+      "type": "Release",
+      "file_name": "minecraft-1-20-60-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-60-20/minecraft-1-20-60-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 691144095
+    },
+    {
+      "version": "1.20.50.24",
+      "type": "Release",
+      "file_name": "minecraft-1-20-50-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-50-24/minecraft-1-20-50-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 688047796
+    },
+    {
+      "version": "1.20.50.23",
+      "type": "Release",
+      "file_name": "minecraft-1-20-50-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-50-23/minecraft-1-20-50-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 687957684
+    },
+    {
+      "version": "1.20.50.22",
+      "type": "Release",
+      "file_name": "minecraft-1-20-50-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-50-22/minecraft-1-20-50-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 687381256
+    },
+    {
+      "version": "1.20.50.21",
+      "type": "Release",
+      "file_name": "minecraft-1-20-50-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-50-21/minecraft-1-20-50-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 689222249
+    },
+    {
+      "version": "1.20.50.20",
+      "type": "Release",
+      "file_name": "minecraft-1-20-50-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-50-20/minecraft-1-20-50-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 686702415
+    },
+    {
+      "version": "1.20.40.24",
+      "type": "Release",
+      "file_name": "minecraft-1-20-40-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-40-24/minecraft-1-20-40-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 686177697
+    },
+    {
+      "version": "1.20.40.23",
+      "type": "Release",
+      "file_name": "minecraft-1-20-40-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-40-23/minecraft-1-20-40-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 686169505
+    },
+    {
+      "version": "1.20.40.22",
+      "type": "Release",
+      "file_name": "minecraft-1-20-40-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-40-22/minecraft-1-20-40-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 686058618
+    },
+    {
+      "version": "1.20.40.21",
+      "type": "Release",
+      "file_name": "minecraft-1-20-40-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-40-21/minecraft-1-20-40-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 686004882
+    },
+    {
+      "version": "1.20.40.20",
+      "type": "Release",
+      "file_name": "minecraft-1-20-40-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-40-20/minecraft-1-20-40-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 685238108
+    },
+    {
+      "version": "1.20.30.25",
+      "type": "Release",
+      "file_name": "minecraft-1-20-30-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-30-25/minecraft-1-20-30-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 684318817
+    },
+    {
+      "version": "1.20.30.24",
+      "type": "Release",
+      "file_name": "minecraft-1-20-30-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-30-24/minecraft-1-20-30-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 684290145
+    },
+    {
+      "version": "1.20.30.22",
+      "type": "Release",
+      "file_name": "minecraft-1-20-30-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-30-22/minecraft-1-20-30-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 683658379
+    },
+    {
+      "version": "1.20.30.21",
+      "type": "Release",
+      "file_name": "minecraft-1-20-30-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-30-21/minecraft-1-20-30-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 680490234
+    },
+    {
+      "version": "1.20.20.23",
+      "type": "Release",
+      "file_name": "minecraft-1-20-20-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-20-23/minecraft-1-20-20-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 679587038
+    },
+    {
+      "version": "1.20.20.22",
+      "type": "Release",
+      "file_name": "minecraft-1-20-20-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-20-22/minecraft-1-20-20-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 679587038
+    },
+    {
+      "version": "1.20.20.21",
+      "type": "Release",
+      "file_name": "minecraft-1-20-20-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-20-21/minecraft-1-20-20-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 679106818
+    },
+    {
+      "version": "1.20.20.20",
+      "type": "Release",
+      "file_name": "minecraft-1-20-20-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-20-20/minecraft-1-20-20-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 679550836
+    },
+    {
+      "version": "1.20.10.25",
+      "type": "Release",
+      "file_name": "minecraft-1-20-10-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-10-25/minecraft-1-20-10-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 662797113
+    },
+    {
+      "version": "1.20.10.24",
+      "type": "Release",
+      "file_name": "minecraft-1-20-10-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-10-24/minecraft-1-20-10-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 662797113
+    },
+    {
+      "version": "1.20.10.23",
+      "type": "Release",
+      "file_name": "minecraft-1-20-10-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-10-23/minecraft-1-20-10-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 662805305
+    },
+    {
+      "version": "1.20.0.01",
+      "type": "Release",
+      "file_name": "minecraft-1-20-0-01-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-0-01/minecraft-1-20-0-01-x86-xbox.apk",
+      "sha256": "",
+      "size": 661407118
+    },
+    {
+      "version": "1.20.10.20",
+      "type": "Release",
+      "file_name": "minecraft-1-20-10-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-10-20/minecraft-1-20-10-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 664053649
+    },
+    {
+      "version": "1.20.0.25",
+      "type": "Release",
+      "file_name": "minecraft-1-20-0-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-0-25/minecraft-1-20-0-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 663770510
+    },
+    {
+      "version": "1.20.0.24",
+      "type": "Release",
+      "file_name": "minecraft-1-20-0-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-0-24/minecraft-1-20-0-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 663762318
+    },
+    {
+      "version": "1.20.0.23",
+      "type": "Release",
+      "file_name": "minecraft-1-20-0-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-0-23/minecraft-1-20-0-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 663382767
+    },
+    {
+      "version": "1.19.81.01",
+      "type": "Release",
+      "file_name": "minecraft-1-19-81-01-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-81-01/minecraft-1-19-81-01-x86-xbox.apk",
+      "sha256": "",
+      "size": 604485431
+    },
+    {
+      "version": "1.20.0.22",
+      "type": "Release",
+      "file_name": "minecraft-1-20-0-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-0-22/minecraft-1-20-0-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 665070224
+    },
+    {
+      "version": "1.20.0.21",
+      "type": "Release",
+      "file_name": "minecraft-1-20-0-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-0-21/minecraft-1-20-0-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 609216129
+    },
+    {
+      "version": "1.20.0.20",
+      "type": "Release",
+      "file_name": "minecraft-1-20-0-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-20-0-20/minecraft-1-20-0-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 609233804
+    },
+    {
+      "version": "1.19.80.24",
+      "type": "Release",
+      "file_name": "minecraft-1-19-80-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-80-24/minecraft-1-19-80-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 602763994
+    },
+    {
+      "version": "1.19.80.23",
+      "type": "Release",
+      "file_name": "minecraft-1-19-80-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-80-23/minecraft-1-19-80-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 606648016
+    },
+    {
+      "version": "1.19.80.22",
+      "type": "Release",
+      "file_name": "minecraft-1-19-80-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-80-22/minecraft-1-19-80-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 605504917
+    },
+    {
+      "version": "1.19.80.21",
+      "type": "Release",
+      "file_name": "minecraft-1-19-80-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-80-21/minecraft-1-19-80-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 604748209
+    },
+    {
+      "version": "1.19.80.20",
+      "type": "Release",
+      "file_name": "minecraft-1-19-80-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-80-20/minecraft-1-19-80-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 591766671
+    },
+    {
+      "version": "1.19.70.26",
+      "type": "Release",
+      "file_name": "minecraft-1-19-70-26-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-70-26/minecraft-1-19-70-26-x86-xbox.apk",
+      "sha256": "",
+      "size": 601854337
+    },
+    {
+      "version": "1.19.70.24",
+      "type": "Release",
+      "file_name": "minecraft-1-19-70-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-70-24/minecraft-1-19-70-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 601805185
+    },
+    {
+      "version": "1.19.70.22",
+      "type": "Release",
+      "file_name": "minecraft-1-19-70-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-70-22/minecraft-1-19-70-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 599123797
+    },
+    {
+      "version": "1.19.60.03",
+      "type": "Release",
+      "file_name": "minecraft-1-19-60-03-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-60-03/minecraft-1-19-60-03-x86-xbox.apk",
+      "sha256": "",
+      "size": 596327572
+    },
+    {
+      "version": "1.19.60.24",
+      "type": "Release",
+      "file_name": "minecraft-1-19-60-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-60-24/minecraft-1-19-60-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 595774832
+    },
+    {
+      "version": "1.19.51.01",
+      "type": "Release",
+      "file_name": "minecraft-1-19-51-01-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-51-01/minecraft-1-19-51-01-x86-xbox.apk",
+      "sha256": "",
+      "size": 589970103
+    },
+    {
+      "version": "1.19.60.22",
+      "type": "Release",
+      "file_name": "minecraft-1-19-60-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-60-22/minecraft-1-19-60-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 592078358
+    },
+    {
+      "version": "1.19.60.20",
+      "type": "Release",
+      "file_name": "minecraft-1-19-60-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-60-20/minecraft-1-19-60-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 593909611
+    },
+    {
+      "version": "1.19.50.25",
+      "type": "Release",
+      "file_name": "minecraft-1-19-50-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-50-25/minecraft-1-19-50-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 591157943
+    },
+    {
+      "version": "1.19.50.24",
+      "type": "Release",
+      "file_name": "minecraft-1-19-50-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-50-24/minecraft-1-19-50-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 588126903
+    },
+    {
+      "version": "1.19.41.01",
+      "type": "Release",
+      "file_name": "minecraft-1-19-41-01-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-41-01/minecraft-1-19-41-01-x86-xbox.apk",
+      "sha256": "",
+      "size": 588408234
+    },
+    {
+      "version": "1.19.50.23",
+      "type": "Release",
+      "file_name": "minecraft-1-19-50-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-50-23/minecraft-1-19-50-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 588105616
+    },
+    {
+      "version": "1.19.0.28",
+      "type": "Release",
+      "file_name": "minecraft-1-19-0-28-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-0-28/minecraft-1-19-0-28-x86-xbox.apk",
+      "sha256": "",
+      "size": 177787302
+    },
+    {
+      "version": "1.19.0.26",
+      "type": "Release",
+      "file_name": "minecraft-1-19-0-26-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-0-26/minecraft-1-19-0-26-x86-xbox.apk",
+      "sha256": "",
+      "size": 177260008
+    },
+    {
+      "version": "1.19.0.24",
+      "type": "Release",
+      "file_name": "minecraft-1-19-0-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-0-24/minecraft-1-19-0-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 177675952
+    },
+    {
+      "version": "1.19.0.20",
+      "type": "Release",
+      "file_name": "minecraft-1-19-0-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-19-0-20/minecraft-1-19-0-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 179359306
+    },
+    {
+      "version": "1.18.30.32",
+      "type": "Release",
+      "file_name": "minecraft-1-18-30-32-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-30-32/minecraft-1-18-30-32-x86-xbox.apk",
+      "sha256": "",
+      "size": 175680897
+    },
+    {
+      "version": "1.18.30.30",
+      "type": "Release",
+      "file_name": "minecraft-1-18-30-30-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-30-30/minecraft-1-18-30-30-x86-xbox.apk",
+      "sha256": "",
+      "size": 173128595
+    },
+    {
+      "version": "1.18.30.28",
+      "type": "Release",
+      "file_name": "minecraft-1-18-30-28-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-30-28/minecraft-1-18-30-28-x86-xbox.apk",
+      "sha256": "",
+      "size": 173132691
+    },
+    {
+      "version": "1.18.30.26",
+      "type": "Release",
+      "file_name": "minecraft-1-18-30-26-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-30-26/minecraft-1-18-30-26-x86-xbox.apk",
+      "sha256": "",
+      "size": 169936822
+    },
+    {
+      "version": "1.18.30.22",
+      "type": "Release",
+      "file_name": "minecraft-1-18-30-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-30-22/minecraft-1-18-30-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 166543745
+    },
+    {
+      "version": "1.18.30.20",
+      "type": "Release",
+      "file_name": "minecraft-1-18-30-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-30-20/minecraft-1-18-30-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 166673409
+    },
+    {
+      "version": "1.18.20.29",
+      "type": "Release",
+      "file_name": "minecraft-1-18-20-29-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-20-29/minecraft-1-18-20-29-x86-xbox.apk",
+      "sha256": "",
+      "size": 162633143
+    },
+    {
+      "version": "1.18.20.27",
+      "type": "Release",
+      "file_name": "minecraft-1-18-20-27-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-20-27/minecraft-1-18-20-27-x86-xbox.apk",
+      "sha256": "",
+      "size": 162624664
+    },
+    {
+      "version": "1.18.20.25",
+      "type": "Release",
+      "file_name": "minecraft-1-18-20-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-20-25/minecraft-1-18-20-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 162332272
+    },
+    {
+      "version": "1.18.20.23",
+      "type": "Release",
+      "file_name": "minecraft-1-18-20-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-20-23/minecraft-1-18-20-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 163832153
+    },
+    {
+      "version": "1.18.20.21",
+      "type": "Release",
+      "file_name": "minecraft-1-18-20-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-20-21/minecraft-1-18-20-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 163823616
+    },
+    {
+      "version": "1.18.10.28",
+      "type": "Release",
+      "file_name": "minecraft-1-18-10-28-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-10-28/minecraft-1-18-10-28-x86-xbox.apk",
+      "sha256": "",
+      "size": 160730432
+    },
+    {
+      "version": "1.18.10.27",
+      "type": "Release",
+      "file_name": "minecraft-1-18-10-27-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-10-27/minecraft-1-18-10-27-x86-xbox.apk",
+      "sha256": "",
+      "size": 160946944
+    },
+    {
+      "version": "1.18.10.26",
+      "type": "Release",
+      "file_name": "minecraft-1-18-10-26-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-10-26/minecraft-1-18-10-26-x86-xbox.apk",
+      "sha256": "",
+      "size": 160691613
+    },
+    {
+      "version": "1.18.0.24",
+      "type": "Release",
+      "file_name": "minecraft-1-18-0-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-0-24/minecraft-1-18-0-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 153566666
+    },
+    {
+      "version": "1.18.10.24",
+      "type": "Release",
+      "file_name": "minecraft-1-18-10-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-10-24/minecraft-1-18-10-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 156904747
+    },
+    {
+      "version": "1.18.10.22",
+      "type": "Release",
+      "file_name": "minecraft-1-18-10-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-10-22/minecraft-1-18-10-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 156460752
+    },
+    {
+      "version": "1.18.10.21",
+      "type": "Release",
+      "file_name": "minecraft-1-18-10-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-10-21/minecraft-1-18-10-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 154081570
+    },
+    {
+      "version": "1.18.10.20",
+      "type": "Release",
+      "file_name": "minecraft-1-18-10-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-10-20/minecraft-1-18-10-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 153491223
+    },
+    {
+      "version": "1.18.0.25",
+      "type": "Release",
+      "file_name": "minecraft-1-18-0-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-0-25/minecraft-1-18-0-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 153661013
+    },
+    {
+      "version": "1.18.0.23",
+      "type": "Release",
+      "file_name": "minecraft-1-18-0-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-0-23/minecraft-1-18-0-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 153082207
+    },
+    {
+      "version": "1.18.0.22",
+      "type": "Release",
+      "file_name": "minecraft-1-18-0-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-0-22/minecraft-1-18-0-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 153082207
+    },
+    {
+      "version": "1.17.40.21",
+      "type": "Release",
+      "file_name": "minecraft-1-17-40-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-40-21/minecraft-1-17-40-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 155153445
+    },
+    {
+      "version": "1.18.0.21",
+      "type": "Release",
+      "file_name": "minecraft-1-18-0-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-0-21/minecraft-1-18-0-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 150399514
+    },
+    {
+      "version": "1.18.0.20",
+      "type": "Release",
+      "file_name": "minecraft-1-18-0-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-18-0-20/minecraft-1-18-0-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 155490966
+    },
+    {
+      "version": "1.17.40.23",
+      "type": "Release",
+      "file_name": "minecraft-1-17-40-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-40-23/minecraft-1-17-40-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 155174065
+    },
+    {
+      "version": "1.17.40.20",
+      "type": "Release",
+      "file_name": "minecraft-1-17-40-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-40-20/minecraft-1-17-40-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 155345640
+    },
+    {
+      "version": "1.17.30.24",
+      "type": "Release",
+      "file_name": "minecraft-1-17-30-24-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-30-24/minecraft-1-17-30-24-x86-xbox.apk",
+      "sha256": "",
+      "size": 152790649
+    },
+    {
+      "version": "1.17.30.23",
+      "type": "Release",
+      "file_name": "minecraft-1-17-30-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-30-23/minecraft-1-17-30-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 155248249
+    },
+    {
+      "version": "1.17.30.22",
+      "type": "Release",
+      "file_name": "minecraft-1-17-30-22-x86.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-30-22/minecraft-1-17-30-22-x86.apk",
+      "sha256": "",
+      "size": 152622489
+    },
+    {
+      "version": "1.17.30.21",
+      "type": "Release",
+      "file_name": "minecraft-1-17-30-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-30-21/minecraft-1-17-30-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 152421930
+    },
+    {
+      "version": "1.17.30.25",
+      "type": "Release",
+      "file_name": "minecraft-1-17-30-25-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-30-25/minecraft-1-17-30-25-x86-xbox.apk",
+      "sha256": "",
+      "size": 152794745
+    },
+    {
+      "version": "1.17.30.20",
+      "type": "Release",
+      "file_name": "minecraft-1-17-30-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-30-20/minecraft-1-17-30-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 145817717
+    },
+    {
+      "version": "1.17.20.23",
+      "type": "Release",
+      "file_name": "minecraft-1-17-20-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-20-23/minecraft-1-17-20-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 145756981
+    },
+    {
+      "version": "1.17.20.22",
+      "type": "Release",
+      "file_name": "minecraft-1-17-20-22-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-20-22/minecraft-1-17-20-22-x86-xbox.apk",
+      "sha256": "",
+      "size": 144808893
+    },
+    {
+      "version": "1.17.20.21",
+      "type": "Release",
+      "file_name": "minecraft-1-17-20-21-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-20-21/minecraft-1-17-20-21-x86-xbox.apk",
+      "sha256": "",
+      "size": 144009918
+    },
+    {
+      "version": "1.17.10.23",
+      "type": "Release",
+      "file_name": "minecraft-1-17-10-23-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-10-23/minecraft-1-17-10-23-x86-xbox.apk",
+      "sha256": "",
+      "size": 143792832
+    },
+    {
+      "version": "1.17.10.20",
+      "type": "Release",
+      "file_name": "minecraft-1-17-10-20-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-10-20/minecraft-1-17-10-20-x86-xbox.apk",
+      "sha256": "",
+      "size": 142335571
+    },
+    {
+      "version": "1.17.0.58",
+      "type": "Release",
+      "file_name": "minecraft-1-17-0-58-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-0-58/minecraft-1-17-0-58-x86-xbox.apk",
+      "sha256": "",
+      "size": 142323612
+    },
+    {
+      "version": "1.17.0.56",
+      "type": "Release",
+      "file_name": "minecraft-1-17-0-56-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-0-56/minecraft-1-17-0-56-x86-xbox.apk",
+      "sha256": "",
+      "size": 142327159
+    },
+    {
+      "version": "1.17.0.54",
+      "type": "Release",
+      "file_name": "minecraft-1-17-0-54-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-0-54/minecraft-1-17-0-54-x86-xbox.apk",
+      "sha256": "",
+      "size": 142050903
+    },
+    {
+      "version": "1.17.0.52",
+      "type": "Release",
+      "file_name": "minecraft-1-17-0-52-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-0-52/minecraft-1-17-0-52-x86-xbox.apk",
+      "sha256": "",
+      "size": 141577340
+    },
+    {
+      "version": "1.17.0.50",
+      "type": "Release",
+      "file_name": "minecraft-1-17-0-50-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-17-0-50/minecraft-1-17-0-50-x86-xbox.apk",
+      "sha256": "",
+      "size": 140310172
+    },
+    {
+      "version": "1.16.230.56",
+      "type": "Release",
+      "file_name": "minecraft-1-16-230-56-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-230-56/minecraft-1-16-230-56-x86-xbox.apk",
+      "sha256": "",
+      "size": 138798309
+    },
+    {
+      "version": "1.16.230.54",
+      "type": "Release",
+      "file_name": "minecraft-1-16-230-54-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-230-54/minecraft-1-16-230-54-x86-xbox.apk",
+      "sha256": "",
+      "size": 138746446
+    },
+    {
+      "version": "1.16.230.52",
+      "type": "Release",
+      "file_name": "minecraft-1-16-230-52-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-230-52/minecraft-1-16-230-52-x86-xbox.apk",
+      "sha256": "",
+      "size": 138559295
+    },
+    {
+      "version": "1.16.230.50",
+      "type": "Release",
+      "file_name": "minecraft-1-16-230-50-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-230-50/minecraft-1-16-230-50-x86-xbox.apk",
+      "sha256": "",
+      "size": 137295968
+    },
+    {
+      "version": "1.16.220.52",
+      "type": "Release",
+      "file_name": "minecraft-1-16-220-52-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-220-52/minecraft-1-16-220-52-x86-xbox.apk",
+      "sha256": "",
+      "size": 136887843
+    },
+    {
+      "version": "1.16.220.51",
+      "type": "Release",
+      "file_name": "minecraft-1-16-220-51-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-220-51/minecraft-1-16-220-51-x86-xbox.apk",
+      "sha256": "",
+      "size": 135364147
+    },
+    {
+      "version": "1.16.220.50",
+      "type": "Release",
+      "file_name": "minecraft-1-16-220-50-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-220-50/minecraft-1-16-220-50-x86-xbox.apk",
+      "sha256": "",
+      "size": 134413745
+    },
+    {
+      "version": "1.16.210.61",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-61-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-61/minecraft-1-16-210-61-x86-xbox.apk",
+      "sha256": "",
+      "size": 132771031
+    },
+    {
+      "version": "1.16.210.60",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-60-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-60/minecraft-1-16-210-60-x86-xbox.apk",
+      "sha256": "",
+      "size": 132766935
+    },
+    {
+      "version": "1.16.210.59",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-59-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-59/minecraft-1-16-210-59-x86-xbox.apk",
+      "sha256": "",
+      "size": 133054312
+    },
+    {
+      "version": "1.16.210.58",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-58-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-58/minecraft-1-16-210-58-x86-xbox.apk",
+      "sha256": "",
+      "size": 132076090
+    },
+    {
+      "version": "1.16.210.57",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-57-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-57/minecraft-1-16-210-57-x86-xbox.apk",
+      "sha256": "",
+      "size": 132869326
+    },
+    {
+      "version": "1.16.210.56",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-56-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-56/minecraft-1-16-210-56-x86-xbox.apk",
+      "sha256": "",
+      "size": 132579129
+    },
+    {
+      "version": "1.16.210.55",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-55-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-55/minecraft-1-16-210-55-x86-xbox.apk",
+      "sha256": "",
+      "size": 131995145
+    },
+    {
+      "version": "1.16.210.54",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-54-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-54/minecraft-1-16-210-54-x86-xbox.apk",
+      "sha256": "",
+      "size": 131966473
+    },
+    {
+      "version": "1.16.210.53",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-53-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-53/minecraft-1-16-210-53-x86-xbox.apk",
+      "sha256": "",
+      "size": 130753982
+    },
+    {
+      "version": "1.16.210.51",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-51-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-51/minecraft-1-16-210-51-x86-xbox.apk",
+      "sha256": "",
+      "size": 131208804
+    },
+    {
+      "version": "1.16.210.50",
+      "type": "Release",
+      "file_name": "minecraft-1-16-210-50-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-210-50/minecraft-1-16-210-50-x86-xbox.apk",
+      "sha256": "",
+      "size": 131192173
+    },
+    {
+      "version": "1.16.200.57",
+      "type": "Release",
+      "file_name": "minecraft-1-16-200-57-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-200-57/minecraft-1-16-200-57-x86-xbox.apk",
+      "sha256": "",
+      "size": 139693618
+    },
+    {
+      "version": "1.16.200.56",
+      "type": "Release",
+      "file_name": "minecraft-1-16-200-56-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-200-56/minecraft-1-16-200-56-x86-xbox.apk",
+      "sha256": "",
+      "size": 139673138
+    },
+    {
+      "version": "1.16.200.52",
+      "type": "Release",
+      "file_name": "minecraft-1-16-200-52-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-200-52/minecraft-1-16-200-52-x86-xbox.apk",
+      "sha256": "",
+      "size": 139393391
+    },
+    {
+      "version": "1.16.200.51",
+      "type": "Release",
+      "file_name": "minecraft-1-16-200-51-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-200-51/minecraft-1-16-200-51-x86-xbox.apk",
+      "sha256": "",
+      "size": 139196503
+    },
+    {
+      "version": "1.16.100.60",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-60-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-60/minecraft-1-16-100-60-x86-xbox.apk",
+      "sha256": "",
+      "size": 139077553
+    },
+    {
+      "version": "1.16.100.59",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-59-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-59/minecraft-1-16-100-59-x86-xbox.apk",
+      "sha256": "",
+      "size": 140076977
+    },
+    {
+      "version": "1.16.100.58",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-58-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-58/minecraft-1-16-100-58-x86-xbox.apk",
+      "sha256": "",
+      "size": 140178949
+    },
+    {
+      "version": "1.16.100.57",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-57-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-57/minecraft-1-16-100-57-x86-xbox.apk",
+      "sha256": "",
+      "size": 139239209
+    },
+    {
+      "version": "1.16.100.56",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-56-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-56/minecraft-1-16-100-56-x86-xbox.apk",
+      "sha256": "",
+      "size": 138968185
+    },
+    {
+      "version": "1.16.100.55",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-55-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-55/minecraft-1-16-100-55-x86-xbox.apk",
+      "sha256": "",
+      "size": 141019608
+    },
+    {
+      "version": "1.16.100.54",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-54-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-54/minecraft-1-16-100-54-x86-xbox.apk",
+      "sha256": "",
+      "size": 140657038
+    },
+    {
+      "version": "1.16.100.53",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-53-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-53/minecraft-1-16-100-53-x86-xbox.apk",
+      "sha256": "",
+      "size": 139445949
+    },
+    {
+      "version": "1.16.100.52",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-52-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-52/minecraft-1-16-100-52-x86-xbox.apk",
+      "sha256": "",
+      "size": 140877685
+    },
+    {
+      "version": "1.16.100.51",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-51-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-51/minecraft-1-16-100-51-x86-xbox.apk",
+      "sha256": "",
+      "size": 139983921
+    },
+    {
+      "version": "1.16.100.50",
+      "type": "Release",
+      "file_name": "minecraft-1-16-100-50-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-100-50/minecraft-1-16-100-50-x86-xbox.apk",
+      "sha256": "",
+      "size": 133491238
+    },
+    {
+      "version": "1.16.20.54",
+      "type": "Release",
+      "file_name": "minecraft-1-16-20-54-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-20-54/minecraft-1-16-20-54-x86-xbox.apk",
+      "sha256": "",
+      "size": 106974578
+    },
+    {
+      "version": "1.16.20.53",
+      "type": "Release",
+      "file_name": "minecraft-1-16-20-53-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-20-53/minecraft-1-16-20-53-x86-xbox.apk",
+      "sha256": "",
+      "size": 106981496
+    },
+    {
+      "version": "1.16.20.52",
+      "type": "Release",
+      "file_name": "minecraft-1-16-20-52-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-20-52/minecraft-1-16-20-52-x86-xbox.apk",
+      "sha256": "",
+      "size": 106887286
+    },
+    {
+      "version": "1.16.1.02",
+      "type": "Release",
+      "file_name": "minecraft-1-16-1-02-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-1-02/minecraft-1-16-1-02-x86-xbox.apk",
+      "sha256": "",
+      "size": 107559757
+    },
+    {
+      "version": "1.16.20.50",
+      "type": "Release",
+      "file_name": "minecraft-1-16-20-50-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-20-50/minecraft-1-16-20-50-x86-xbox.apk",
+      "sha256": "",
+      "size": 106621683
+    },
+    {
+      "version": "1.16.0.68",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-68-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-68/minecraft-1-16-0-68-x86-xbox.apk",
+      "sha256": "",
+      "size": 105706432
+    },
+    {
+      "version": "1.16.0.67",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-67-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-67/minecraft-1-16-0-67-x86-xbox.apk",
+      "sha256": "",
+      "size": 104969086
+    },
+    {
+      "version": "1.16.0.66",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-66-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-66/minecraft-1-16-0-66-x86-xbox.apk",
+      "sha256": "",
+      "size": 108516298
+    },
+    {
+      "version": "1.16.0.64",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-64-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-64/minecraft-1-16-0-64-x86-xbox.apk",
+      "sha256": "",
+      "size": 108505599
+    },
+    {
+      "version": "1.16.0.63",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-63-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-63/minecraft-1-16-0-63-x86-xbox.apk",
+      "sha256": "",
+      "size": 108308085
+    },
+    {
+      "version": "1.16.0.61",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-61-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-61/minecraft-1-16-0-61-x86-xbox.apk",
+      "sha256": "",
+      "size": 109192412
+    },
+    {
+      "version": "1.16.0.60",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-60-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-60/minecraft-1-16-0-60-x86-xbox.apk",
+      "sha256": "",
+      "size": 111001034
+    },
+    {
+      "version": "1.16.0.59",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-59-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-59/minecraft-1-16-0-59-x86-xbox.apk",
+      "sha256": "",
+      "size": 110867409
+    },
+    {
+      "version": "1.16.0.58",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-58-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-58/minecraft-1-16-0-58-x86-xbox.apk",
+      "sha256": "",
+      "size": 114350667
+    },
+    {
+      "version": "1.16.0.57",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-57-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-57/minecraft-1-16-0-57-x86-xbox.apk",
+      "sha256": "",
+      "size": 114461269
+    },
+    {
+      "version": "1.16.0.55",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-55-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-55/minecraft-1-16-0-55-x86-xbox.apk",
+      "sha256": "",
+      "size": 99343075
+    },
+    {
+      "version": "1.16.0.53",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-53-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-53/minecraft-1-16-0-53-x86-xbox.apk",
+      "sha256": "",
+      "size": 98340841
+    },
+    {
+      "version": "1.16.0.51",
+      "type": "Release",
+      "file_name": "minecraft-1-16-0-51-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-16-0-51/minecraft-1-16-0-51-x86-xbox.apk",
+      "sha256": "",
+      "size": 113210698
+    },
+    {
+      "version": "1.15.0.56",
+      "type": "Release",
+      "file_name": "minecraft-1-15-0-56-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-15-0-56/minecraft-1-15-0-56-x86-xbox.apk",
+      "sha256": "",
+      "size": 112607261
+    },
+    {
+      "version": "1.15.0.55",
+      "type": "Release",
+      "file_name": "minecraft-1-15-0-55-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-15-0-55/minecraft-1-15-0-55-x86-xbox.apk",
+      "sha256": "",
+      "size": 111935056
+    },
+    {
+      "version": "1.15.0.54",
+      "type": "Release",
+      "file_name": "minecraft-1-15-0-54-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-15-0-54/minecraft-1-15-0-54-x86-xbox.apk",
+      "sha256": "",
+      "size": 111909968
+    },
+    {
+      "version": "1.15.0.53",
+      "type": "Release",
+      "file_name": "minecraft-1-15-0-53-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-15-0-53/minecraft-1-15-0-53-x86-xbox.apk",
+      "sha256": "",
+      "size": 111898018
+    },
+    {
+      "version": "1.15.0.51",
+      "type": "Release",
+      "file_name": "minecraft-1-15-0-51-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-15-0-51/minecraft-1-15-0-51-x86-xbox.apk",
+      "sha256": "",
+      "size": 96473653
+    },
+    {
+      "version": "1.14.20.1",
+      "type": "Release",
+      "file_name": "minecraft-1-14-20-1-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-20-1/minecraft-1-14-20-1-x86-xbox.apk",
+      "sha256": "",
+      "size": 98435166
+    },
+    {
+      "version": "1.14.25.1",
+      "type": "Release",
+      "file_name": "minecraft-1-14-25-1-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-25-1/minecraft-1-14-25-1-x86-xbox.apk",
+      "sha256": "",
+      "size": 98435166
+    },
+    {
+      "version": "1.14.2.51",
+      "type": "Release",
+      "file_name": "minecraft-1-14-2-51-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-2-51/minecraft-1-14-2-51-x86-xbox.apk",
+      "sha256": "",
+      "size": 98430972
+    },
+    {
+      "version": "1.14.1.4",
+      "type": "Release",
+      "file_name": "minecraft-1-14-1-4-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-1-4/minecraft-1-14-1-4-x86-xbox.apk",
+      "sha256": "",
+      "size": 98385916
+    },
+    {
+      "version": "1.14.2.50",
+      "type": "Release",
+      "file_name": "minecraft-1-14-2-50-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-2-50/minecraft-1-14-2-50-x86-xbox.apk",
+      "sha256": "",
+      "size": 98422780
+    },
+    {
+      "version": "1.14.1.3",
+      "type": "Release",
+      "file_name": "minecraft-1-14-1-3-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-1-3/minecraft-1-14-1-3-x86-xbox.apk",
+      "sha256": "",
+      "size": 98385916
+    },
+    {
+      "version": "1.14.0.1",
+      "type": "Release",
+      "file_name": "minecraft-1-14-0-1-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-0-1/minecraft-1-14-0-1-x86-xbox.apk",
+      "sha256": "",
+      "size": 94864106
+    },
+    {
+      "version": "1.14.1.2",
+      "type": "Release",
+      "file_name": "minecraft-1-14-1-2-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-1-2/minecraft-1-14-1-2-x86-xbox.apk",
+      "sha256": "",
+      "size": 98385916
+    },
+    {
+      "version": "1.14.0.52",
+      "type": "Release",
+      "file_name": "minecraft-1-14-0-52-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-0-52/minecraft-1-14-0-52-x86-xbox.apk",
+      "sha256": "",
+      "size": 98131964
+    },
+    {
+      "version": "1.14.0.51",
+      "type": "Release",
+      "file_name": "minecraft-1-14-0-51-x86-xbox.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-14-0-51/minecraft-1-14-0-51-x86-xbox.apk",
+      "sha256": "",
+      "size": 98156540
     }
   ]
 }
