@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-13",
+  "updated_at": "2026-05-08",
   "releases": [
+    {
+      "version": "1.26.20",
+      "type": "Release",
+      "file_name": "minecraft-1.26.20.4-x86_64.apk",
+      "download_url": "https://dl.mcpelife.com/minecraft-pe/1-26-20-4/minecraft-1.26.20.4-x86_64.apk",
+      "sha256": "",
+      "size": 946431391
+    },
     {
       "version": "1.26.13.1",
       "type": "Release",
